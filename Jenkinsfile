@@ -17,5 +17,5 @@ pipeine{
         echo 'Deploy Stage'
         }
         }
-      }
+    }
 }
